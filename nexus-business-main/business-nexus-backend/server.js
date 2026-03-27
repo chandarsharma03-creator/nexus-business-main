@@ -21,7 +21,7 @@ const app = express();
 // --- CORRECTED CORS FOR VERCEL ---
 const allowedOrigins = [
   'http://localhost:5173', // Local Vite development
-  'https://businessnexus.vercel.app',
+  'https://nexus-business-main.vercel.app',
   'https://nexus-business-beta.vercel.app'
 ];
 
